@@ -13,4 +13,10 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Windows_Internals-5793B4?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
+
+  <br/>
+
+  <a href="https://t.me/constwtf">
+    <img src="https://img.shields.io/badge/Telegram-5793B4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </div>
